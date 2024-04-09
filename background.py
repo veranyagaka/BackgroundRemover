@@ -14,3 +14,5 @@ if __name__ == "__main__":
     input_path = 'cl.jpg'
     output_path = 'output.png'
     remove_background(input_path, output_path)
+
+   #  this is crap but I'll take it
